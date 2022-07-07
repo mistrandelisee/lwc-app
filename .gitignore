@@ -5,3 +5,5 @@
 .vscode
 .localdevserver
 node_modules
+scripts
+index.js
